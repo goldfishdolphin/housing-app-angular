@@ -1,4 +1,4 @@
-# Angular Homes App
+# Angular Housing App
 - Install Angular if you don't have it installed
 
   `npm install -g @angular/cli`
@@ -18,4 +18,3 @@
 - Run the application 
 
   `ng serve`# housing-app-angular
-# housing-app-angular
